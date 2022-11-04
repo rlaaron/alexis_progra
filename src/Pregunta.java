@@ -14,6 +14,7 @@ public class Pregunta {
 
     public Boolean getActiva() {
         return activa;
+        //Este es un comentario
     }
 
     public void setPregunta(String pregunta) {
