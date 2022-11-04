@@ -16,6 +16,7 @@ public class Pregunta {
         return activa;
         //Este es un comentario
         //te devuelvo el comentario
+        //Este cambio es sobre mi rama
     }
 
     public void setPregunta(String pregunta) {
